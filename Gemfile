@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.2.0'
+gem 'tzinfo'
+gem 'tzinfo-data'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'webrick'
 
 group :jekyll_plugins do
   gem 'jekyll-archives', '~> 2.2.1'
