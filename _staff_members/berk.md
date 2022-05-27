@@ -1,7 +1,5 @@
 ---
 name: Mehmet Berk Berke
 position: Parser Implementation
-image_path: /images/berk_res.JPG
-twitter:
-blurb: Berk 
+image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
 ---
